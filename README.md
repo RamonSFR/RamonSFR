@@ -1,4 +1,6 @@
-<h1>Bem-vindo ao meu perfil do GitHub! 👋</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=4000&pause=1000&color=9400D3&width=435&lines=Bem+Vindo+ao+meu+perfil+do+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 <h3>Sobre mim</h3>
 Olá, sou Ramon Sávio, um entusiasta da tecnologia com 18 anos de idade. Estou sempre buscando aprender e me aprimorar meus conhecimentos, atualmente estou focado em me aprofundar nas tecnologias de Desenvolvimento Front-End, incluindo HTML, CSS, JavaScript e React.
 
@@ -27,6 +29,7 @@ Olá, sou Ramon Sávio, um entusiasta da tecnologia com 18 anos de idade. Estou 
   <a href = "mailto:ramonsavio.sfr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramon-sávio-fontes-rocha-4ab964271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank"></a> 
 </div>
-  
-  
+
 ![Snake animation](https://github.com/RamonSFR/RamonSFR/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>

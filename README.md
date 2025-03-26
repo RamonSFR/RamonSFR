@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=4000&pause=1000&color=9400D3&width=435&lines=Bem+Vindo+ao+meu+perfil+do+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 <h3>Sobre mim</h3>
-Olá, sou Ramon Sávio, um entusiasta da tecnologia com 19 anos de idade. Estou sempre buscando aprender e aprimorar meus conhecimentos, atualmente estou focado em me aprofundar nas tecnologias de Desenvolvimento Front-End, incluindo HTML, CSS, JavaScript e React.
+Olá, sou Ramon Sávio, um entusiasta da tecnologia com 20 anos de idade. Estou sempre buscando aprender e aprimorar meus conhecimentos, atualmente estou focado em me aprofundar nas tecnologias de Desenvolvimento Front-End, incluindo HTML, CSS, JavaScript e React.
 
 ##
 
